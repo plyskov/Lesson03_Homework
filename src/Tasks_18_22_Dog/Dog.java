@@ -20,4 +20,8 @@ public class Dog {
         age++;
     }
 
+    public void changeColor(String newColor){
+        color = newColor;
+    }
+
 }
