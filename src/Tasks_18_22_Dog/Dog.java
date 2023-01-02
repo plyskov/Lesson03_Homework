@@ -14,4 +14,8 @@ public class Dog {
         System.out.println("Name: " + name + "; age: " + age + ".");
     }
 
+    public void happyBirthday(){
+        age++;
+    }
+
 }
